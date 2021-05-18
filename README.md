@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Software and WebApp development .
 - 🌱 I’m currently learning Django and Flutter App Deveoplment .
-- 💞️ I’m looking to collaborate on Djando, the nice python framework web development in python.
+- 💞️ I’m looking to collaborate on Djando, the nice python framework for web development in python.
 - 📫 How to reach me ? Ping me on messenger or my gmail id is askumar9672919010@gamil.com
 
 <!---
