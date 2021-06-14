@@ -1,8 +1,8 @@
  - 👋 Hi, I'am Ashok Kumar Saini , doing my B.tech in computer science at IIT Kanpur.
 
 - 👀 I’m interested in Software and WebApp development .
-- 🌱 I’m currently learning Django and Flutter App Deveoplment .
-- 💞️ I’m looking to collaborate on Djando, the nice python framework for web development in python.
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ? Contact me via gmail id is askumar9672919010@gamil.com
 
 <!---
